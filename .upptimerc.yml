@@ -1,5 +1,6 @@
 owner: displayblox
 repo: status
+user-agent: displayblox-bot
 sites:
   - name: Website
     url: https://displayblox.com
