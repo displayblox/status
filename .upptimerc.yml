@@ -9,7 +9,7 @@ sites:
 assignees:
   - fcjr
 status-website:
-  cname: status.leftshift.com
+  cname: status.displayblox.com
   logoUrl: https://displayblox.com/static/img/logo.png
   favicon: https://displayblox.com/favicon.ico
   name: DisplayBlox Status
